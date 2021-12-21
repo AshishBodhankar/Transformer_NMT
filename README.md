@@ -1,4 +1,4 @@
-# Understanding the Transformer model from "Attention is all you need paper"
+# Understanding the Transformer model from "Attention is all you need" paper
 
 In this project we simultaneously understand and build a smaller distilled version of the Transformer architecture introduced in the "Attention is all you need paper" by Vaswani et. al. This paper was an more advanced step in the use of the attention mechanism being the main basis for a model called Transformer. The most famous current models that are emerging in NLP tasks consist of dozens of transformers or some of their variants, for example, GPT-3 or BERT.
 
